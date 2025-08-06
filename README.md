@@ -50,7 +50,7 @@ The sample phishing email used in this task was downloaded from the following op
         If this was you, no further action is required for similar activity in the future.
 
 
-##🔎Header Analysis
+# 🔎Header Analysis
 
 | Field            | Details                                               |
 |------------------|------------------------------------------------------|
