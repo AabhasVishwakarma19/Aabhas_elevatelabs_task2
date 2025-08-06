@@ -80,7 +80,7 @@ The sample phishing email used in this task was downloaded from the following op
 | **Suspicious Links**       | Links in the email lead to unexpected destinations, such as personal email accounts instead of official sites.|
 | **Threatening/Urgent Language** | Uses urgent language: “If this wasn't you, please report the user"                             |                            
 | **Mismatch in Message & Links** | Appears to be a login alert, but links open an email composer instead of a Microsoft page.      |
-| **Grammar Errors**         | Phrases like "sunusual sign.in activity", inconsistent spacing/punctuation.                                   |
+| **Grammar Errors**         | Phrases like "unusual sign.in activity", inconsistent spacing/punctuation.                                   |
 | **Unfamiliar IP/Location** | Claims a login from “Russia/Moscow” using `103.225.77.255` to induce fear.                          |
 | **No Official Branding**   | No digital signature, official footer, or policy links.                                             |
 
