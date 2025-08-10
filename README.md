@@ -1,4 +1,5 @@
-# Phishing Email Analysis Report
+# Internship project 
+# Task 2 - Phishing Email Analysis Report
 
 ## Basic Information
 
@@ -64,11 +65,6 @@ The sample phishing email used in this task was downloaded from the following op
 |**Browser**       |Firefox                                               |
 
 
-### 📸Screenshots
-
-## Email(analyzed using claws-mail)
-
-## Mxheader analysis
 ---
 
 ## 🎣Phishing Indicators Identified
